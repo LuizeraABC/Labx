@@ -1,2 +1,2 @@
-# Labx
+# labx
 repositório de experiências
